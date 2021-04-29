@@ -25,7 +25,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production. Building to /docs just to get GH pages to work.
 ```
 npm run build
 ```
